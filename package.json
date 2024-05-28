@@ -1,0 +1,20 @@
+{
+  "name": "sudokucolores",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "predeploy": "vite build",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "gh-pages": "^6.1.1",
+    "sass": "^1.77.2"
+  }
+}
