@@ -4,13 +4,13 @@
    Juego de Sudoku de colores 📱 💻 🖥
 </h1>
 
-El código proporcionado es un juego de Sudoku de colores en el que el jugador debe completar un tablero de 4x4 con colores fijos en ciertas celdas. El juego consta de varios niveles, cada uno con una combinación diferente de colores fijos. El objetivo es completar el tablero siguiendo las reglas del Sudoku, donde cada fila y columna debe contener cada color una sola vez.
+<p>El código proporcionado es un juego de Sudoku de colores en el que el jugador debe completar un tablero de 4x4 con colores fijos en ciertas celdas. El juego consta de varios niveles, cada uno con una combinación diferente de colores fijos. El objetivo es completar el tablero siguiendo las reglas del Sudoku, donde cada fila y columna debe contener cada color una sola vez.</p>
 
-El código incluye funciones para crear el tablero, añadir colores fijos, permitir al jugador seleccionar y cambiar colores en las celdas, verificar si el tablero está completo y mostrar mensajes de victoria o derrota. También se incluyen funciones para controlar el tiempo transcurrido, reiniciar el temporizador y formatear el tiempo en formato HH:MM:SS.
+<p>El código incluye funciones para crear el tablero, añadir colores fijos, permitir al jugador seleccionar y cambiar colores en las celdas, verificar si el tablero está completo y mostrar mensajes de victoria o derrota. También se incluyen funciones para controlar el tiempo transcurrido, reiniciar el temporizador y formatear el tiempo en formato HH:MM:SS.</p>
 
-El juego se inicia al cargar completamente el DOM y el jugador avanza de nivel al completar correctamente el tablero. Si se completa el último nivel, se muestra un mensaje de felicitación y se reinicia el juego.
+<p>El juego se inicia al cargar completamente el DOM y el jugador avanza de nivel al completar correctamente el tablero. Si se completa el último nivel, se muestra un mensaje de felicitación y se reinicia el juego.</p>
 
-En resumen, el código proporciona una implementación de un juego de Sudoku de colores interactivo que desafía al jugador a completar el tablero dentro de los límites de tiempo y las reglas del juego, utilizando SASS y Bootstrap para estilizar y estructurar la interfaz del juego, con la ventaja de ser accesible en cualquier dispositivo.
+<p>En resumen, el código proporciona una implementación de un juego de Sudoku de colores interactivo que desafía al jugador a completar el tablero dentro de los límites de tiempo y las reglas del juego, utilizando SASS y Bootstrap para estilizar y estructurar la interfaz del juego, con la ventaja de ser accesible en cualquier dispositivo.</p>
 
 
 ## Vista previa 🖼️
