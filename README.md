@@ -40,9 +40,15 @@
 
 ## Uso 📋
 
-1. Clona este repositorio en tu máquina local.
-2. Personaliza el contenido según tu información, proyectos y habilidades.
-3. Despliega el sitio en línea utilizando plataformas como GitHub Pages, Netlify, Vercel, etc.
+Este proyecto requiere el uso de Vite para su correcto funcionamiento. Asegúrate de tener Vite instalado en tu entorno de desarrollo antes de continuar. 
+ 
+## Pasos para utilizar el proyecto: 
+ 
+1. Descarga e instala Vite en tu sistema si aún no lo has hecho. 
+2. Descarga las dependencias del proyecto utilizando el comando  npm install  o  yarn install . 
+3. Una vez que todas las dependencias se hayan descargado correctamente, puedes arrancar el proyecto utilizando el comando  npm run dev  o  yarn dev . 
+ 
+¡Listo! Ahora deberías poder utilizar el proyecto sin problemas. ¡Gracias por utilizar la aplicación!
 
 
 ## Contribuciones 🤝
