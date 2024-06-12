@@ -29,7 +29,7 @@
   <img src="./img/iPad-PRO-11-localhost.png" alt="vista tablet"/>
 </div>
 <div align="center>
-   <a href="https://github.com/EstherChuCortes/sudokuColores" target="_blank">
+   <a href="https://github.com/EstherChuCortes/sudokuColores?tab=readme-ov-file" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
    </a>  
    <a href="https://estherchucortes.github.io/sudokuColores/" target="_blank">
